@@ -1,0 +1,27 @@
+{
+  "name": "react-card",
+  "version": "1.0.0",
+  "description": "A card component for reactjs",
+  "main": "index.js",
+  "dependencies": {
+     "react": "^15.6.1",
+     "react-bootstrap": "^0.31.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gate3/react-card.git"
+  },
+  "keywords": [
+    "reactjs",
+    "Card"
+  ],
+  "author": "Doyin Olarewaju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gate3/react-card/issues"
+  },
+  "homepage": "https://github.com/gate3/react-card#readme"
+}
